@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531131410899",
+    "project_id": "memoralife-44445",
+    "storage_bucket": "memoralife-44445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531131410899:android:699b61a3c7fdcf6a866726",
+        "android_client_info": {
+          "package_name": "com.example.memora_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEtoVeHUrMlS21tJYcB8DycpQWOSTpdEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
